@@ -1,0 +1,12 @@
+name = "tmux_jll"
+uuid = "558ad2b7-f92e-50c4-8d35-b0432ac1efd4"
+version = "3.0.0-a+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+libevent_jll = "1080aeaf-3a6a-583e-a51c-c537b09f60ec"
+Ncurses_jll = "68e3532b-a499-55ff-9963-d1c0c0748b3a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
