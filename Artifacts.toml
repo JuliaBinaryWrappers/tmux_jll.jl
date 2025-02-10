@@ -5,7 +5,7 @@ os = "macos"
 
     [[tmux.download]]
     sha256 = "850117ef8b27e345c0ee149f9d9e25a80dd024092159e5c1375bed8aa9562104"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.aarch64-apple-darwin.tar.gz"
 [[tmux]]
 arch = "aarch64"
 git-tree-sha1 = "24995d8476cc6b6bbb51109a392145b762b6fe82"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "6a1bfecb34ce400340b32bceedc3a7684fc975aefeed5760924eae16ddb5cdb5"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.aarch64-linux-gnu.tar.gz"
 [[tmux]]
 arch = "aarch64"
 git-tree-sha1 = "510009564c62903748d2b2c76f4c849b84fc0373"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "faca2fb0734f6330d698c68b9e8a5a498613370556ef1fc01195ff7b1ac52a87"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.aarch64-linux-musl.tar.gz"
 [[tmux]]
 arch = "aarch64"
 git-tree-sha1 = "4a3096c0ae9080494c5526533f1cdb7c5392b21b"
@@ -31,7 +31,7 @@ os = "freebsd"
 
     [[tmux.download]]
     sha256 = "d5aee00967f3f9958d13883841f0a7df13430a7f69fb38cb10e52e908498d649"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.aarch64-unknown-freebsd.tar.gz"
 [[tmux]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "cd3aaf302682e9a2af9c9a6a77f9cd49a663c26e77f87c2b24fefd1259654452"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.armv6l-linux-gnueabihf.tar.gz"
 [[tmux]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -51,7 +51,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "9ce3d79a6d533ed57c3403cabee7d8dfb928f69ee009bc1363a54ab5c63ca3d5"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.armv6l-linux-musleabihf.tar.gz"
 [[tmux]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "5a23805e891859b22de48ffd53691bd3ed2ddb4df9f9cc71389930f37859f24b"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.armv7l-linux-gnueabihf.tar.gz"
 [[tmux]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "496bc9160ab57b42d43a2dff8733b76177a9c7ab1b7f5c62d3be6b0fcc891283"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.armv7l-linux-musleabihf.tar.gz"
 [[tmux]]
 arch = "i686"
 git-tree-sha1 = "71bb50ba9ed0dd8f3332ed36dbc67613e92ce3e7"
@@ -80,7 +80,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "56dae6951acb521834266deabca00e2bf47ad722e7dcb0eead1cbd81c92ab6da"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.i686-linux-gnu.tar.gz"
 [[tmux]]
 arch = "i686"
 git-tree-sha1 = "825455fda5a26fdc19c026bb230a2decb46c120c"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "00e55f1674400826df572ffe350b706842c3968bcda99b76d5eb480bc851d49d"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.i686-linux-musl.tar.gz"
 [[tmux]]
 arch = "powerpc64le"
 git-tree-sha1 = "16e97e4a81fdc05dae68898f28dcd6f95c0f1dcf"
@@ -98,7 +98,16 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "defac1d44e06725cff4eb5cb4d7568098024aac1c70d78905e8b0a26c7ae93b0"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.powerpc64le-linux-gnu.tar.gz"
+[[tmux]]
+arch = "riscv64"
+git-tree-sha1 = "d5f9f14ec690d6b97833ebd5c22a10594e0bfce9"
+libc = "glibc"
+os = "linux"
+
+    [[tmux.download]]
+    sha256 = "029a44daafb75be3d032c966cfa6aa29265c610ca432988e2edd1f84f6c3fd5c"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.riscv64-linux-gnu.tar.gz"
 [[tmux]]
 arch = "x86_64"
 git-tree-sha1 = "e7edcb0a998c46112204b5a3801bfc08967b744b"
@@ -106,7 +115,7 @@ os = "macos"
 
     [[tmux.download]]
     sha256 = "297be1d6bacb846e114af820b621fa01a3ebefd263e446c040adb5a5bcec5497"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.x86_64-apple-darwin.tar.gz"
 [[tmux]]
 arch = "x86_64"
 git-tree-sha1 = "3cf69210edc760428dd108afde332cabd1bfb4f3"
@@ -115,7 +124,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "f9e63603237e5973c84b261be35c42a00e2f76c64b76d01c82bab7d9d34c1211"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.x86_64-linux-gnu.tar.gz"
 [[tmux]]
 arch = "x86_64"
 git-tree-sha1 = "85dffea6aed64581e5ac483a4d5ac088ef0c969e"
@@ -124,7 +133,7 @@ os = "linux"
 
     [[tmux.download]]
     sha256 = "8ba0aaa8418b83acee65ba00ab1e1772a4b6195bbe23c3b82d40dee76844c7ab"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.x86_64-linux-musl.tar.gz"
 [[tmux]]
 arch = "x86_64"
 git-tree-sha1 = "2d4beee182fc41442d0a3bcd859f8bf81308f904"
@@ -132,4 +141,4 @@ os = "freebsd"
 
     [[tmux.download]]
     sha256 = "9c7d4a6035306eb852da02cde7cd3d8f7b48cc2b4cee8c0f001d67111bcc8314"
-    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+0/tmux.v3.5.1.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/tmux_jll.jl/releases/download/tmux-v3.5.1+1/tmux.v3.5.1.x86_64-unknown-freebsd.tar.gz"

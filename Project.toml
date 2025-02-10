@@ -1,6 +1,6 @@
 name = "tmux_jll"
 uuid = "558ad2b7-f92e-50c4-8d35-b0432ac1efd4"
-version = "3.5.1+0"
+version = "3.5.1+1"
 
 [deps]
 utf8proc_jll = "00992c89-a35c-5347-9984-e6609dacc59a"
