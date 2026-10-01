@@ -1,6 +1,6 @@
 name = "tmux_jll"
 uuid = "558ad2b7-f92e-50c4-8d35-b0432ac1efd4"
-version = "3.5.1+1"
+version = "3.7.3+0"
 
 [deps]
 utf8proc_jll = "00992c89-a35c-5347-9984-e6609dacc59a"
@@ -8,6 +8,7 @@ JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 libevent_jll = "1080aeaf-3a6a-583e-a51c-c537b09f60ec"
 Ncurses_jll = "68e3532b-a499-55ff-9963-d1c0c0748b3a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+jemalloc_jll = "454a8cc1-5e0e-5123-92d5-09b094f0e876"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
